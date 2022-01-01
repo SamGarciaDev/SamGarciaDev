@@ -18,8 +18,9 @@ Hello 👋, I'm Sam García. I'm an Android/Full Stack developer based in Spain.
 
 ## Extra
 🧠 I have some general knowledge about:
+- .NET: Xamarin.Forms, WPF
 - SQL, connectors, ORMs (Hibernate, Exposed...)
 - NodeJS
-- .NET: Xamarin.Forms, WPF
+- Modeling, requirements engineering, quality assurance
 - Bootstrap, JS, CSS3
 - ERPs: Odoo
