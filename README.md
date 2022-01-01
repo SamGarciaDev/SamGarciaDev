@@ -2,7 +2,7 @@
 Hello 👋, I'm Sam García. I'm an Android/Full Stack developer based in Spain.
 
 ## Currently learning
-📱 I'm currently focused on Android Development:
+📱 I'm currently focused on Android development:
 - Jetpack Compose
 - Ktor
 - Koin
@@ -18,7 +18,7 @@ Hello 👋, I'm Sam García. I'm an Android/Full Stack developer based in Spain.
 
 ## Extra
 🧠 I have some general knowledge about:
-- SQL, connectors, ORMs (Hibernate, Expose...)
+- SQL, connectors, ORMs (Hibernate, Exposed...)
 - NodeJS
 - .NET: Xamarin.Forms, WPF
 - Bootstrap, JS, CSS3
