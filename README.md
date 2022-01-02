@@ -1,6 +1,3 @@
-## About me
-Hello 👋, I'm Sam García. I'm an Android/Full Stack developer based in Spain.
-
 ## Currently learning
 📱 I'm currently focused on Android development:
 - Jetpack Compose
