@@ -15,9 +15,10 @@
 
 ## Extra
 🧠 I have some general knowledge about:
+- NodeJS
 - .NET: Xamarin.Forms, WPF
 - SQL, connectors, ORMs (Hibernate, Exposed...)
-- NodeJS
+- Matisse & Java Binding
 - Modeling, requirements engineering, quality assurance
 - Bootstrap, JS, CSS3
 - ERPs: Odoo
