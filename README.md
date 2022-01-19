@@ -13,6 +13,8 @@
 - Adobe Illustrator
 - Adobe Photoshop
 
+☠ Pentesting
+
 ## Extra
 🧠 I have some general knowledge about:
 - NodeJS
