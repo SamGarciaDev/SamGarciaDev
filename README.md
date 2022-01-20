@@ -13,14 +13,14 @@
 - Adobe Illustrator
 - Adobe Photoshop
 
-☠ Pentesting
+☠ [Pentesting](https://github.com/SamGarciaDev/htb-writeups)
 
 ## Extra
 🧠 I have some general knowledge about:
 - NodeJS
 - .NET: Xamarin.Forms, WPF
-- SQL, connectors, ORMs (Hibernate, Exposed...)
-- Matisse & Java Binding
+- Relational DBs: SQL, connectors, ORMs (Hibernate, Exposed...)
+- Object DBs: MongoDB, Matisse
 - Modeling, requirements engineering, quality assurance
 - Bootstrap, JS, CSS3
 - ERPs: Odoo
