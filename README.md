@@ -20,7 +20,7 @@
 - Java, JavaFX
 - NodeJS
 - .NET: Xamarin.Forms, WPF
-- Relational DBs: SQL, connectors, ORMs (Hibernate, Exposed...)
+- Relational DBs: MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, connectors, ORMs (Hibernate, Exposed...)
 - Object DBs: MongoDB, Matisse
 - Modeling, requirements engineering, quality assurance
 - Bootstrap, JS, CSS3
