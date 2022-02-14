@@ -20,8 +20,7 @@
 - Adobe Illustrator
 - Adobe Photoshop
 
-## Extra
-🧠 I have some general knowledge about:
+## 🧠 What I know
 - Java, JavaFX
 - NodeJS
 - .NET: Xamarin.Forms, WPF
