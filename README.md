@@ -23,5 +23,5 @@
 - Relational DBs: MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, connectors, ORMs (Hibernate, Exposed...)
 - Object DBs: MongoDB, Matisse
 - Modeling, requirements engineering, quality assurance
-- Bootstrap, JS, CSS3
+- Web stack: PHP, HTML, Bootstrap, JS, CSS3
 - Odoo
