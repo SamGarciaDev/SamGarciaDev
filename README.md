@@ -22,10 +22,10 @@
 
 ## 🧠 What I know
 - Java, JavaFX
-- NodeJS
-- .NET: Xamarin.Forms, WPF
+- JS, NodeJS
+- .NET, Xamarin.Forms, WPF
 - Relational DBs: MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, connectors, ORMs (Hibernate, Exposed...)
 - Object DBs: MongoDB, Matisse
 - Modeling, requirements engineering, quality assurance
-- Web stack: PHP, HTML, Bootstrap, JS, CSS3
+- Web stack: PHP, JS, HTML, Bootstrap, CSS3
 - Odoo
