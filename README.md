@@ -21,7 +21,8 @@
 - Adobe Photoshop
 
 ## 🧠 What I know
-- Java, JavaFX
+- iOS Development, Swift, SwiftUI, Objective-C
+- Android Development, Kotlin, Jetpack Compose, Java, JavaFX
 - JS, NodeJS
 - .NET, Xamarin.Forms, WPF
 - Relational DBs: MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, connectors, ORMs (Hibernate, Exposed...)
