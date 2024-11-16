@@ -1,6 +1,5 @@
 ## Currently learning
-- Learning muliplatform development with Flutter
-
+📱 Learning muliplatform development with Flutter
 ☠ [Pentesting](https://github.com/SamGarciaDev/htb-writeups)
 
 
